@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Podacst lgcb</title>
+    <description>Episodios subidos automáticamente desde Google Drive</description>
+    <link>https://TU_USUARIO.github.io/podcast-personal/</link>
+    <language>es</language>
+    <itunes:author>Luis Cueva</itunes:author>
+    <itunes:summary>Podcast personal automatizado</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Digital Marketing"/>
+    
+    <!-- Los episodios se añadirán aquí automáticamente por n8n -->
+    
+  </channel>
+</rss>
